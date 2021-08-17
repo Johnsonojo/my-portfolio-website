@@ -1,0 +1,19 @@
+{
+  "name": "my-portfolio_nextjs",
+  "description": "This is my portfolio site which gives an overview of my journey as a software engineer and my experiences with various software development technologies.",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build && next export",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^11.1.0",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-icons": "^4.2.0",
+    "styled-components": "^5.3.0",
+    "styled-normalize": "^8.0.7"
+  }
+}
